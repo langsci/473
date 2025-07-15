@@ -6,6 +6,15 @@
                     {"name": "Heike Wiese"}
                    ],
 	"license": "CC-BY-4.0",
-	"publishedAt": "2024-10-15T11:00:00.000Z"}
+	"publishedAt": "2024-10-15T11:00:00.000Z"},
+	{"versiontype": "first_edition",
+		"title": "Linguistic dynamics in heritage speakers: Insights from the RUEG group",
+		"authors": [{"name": "Shanley E. M. Allen"},
+                    {"name": "Mareike Keller"},
+                    {"name": "Artemis Alexiadou"},
+                    {"name": "Heike Wiese"}
+                   ],
+	"license": "CC-BY-4.0",
+	"publishedAt": "2025-07-15T11:00:00.000Z"}
 	]
 }
